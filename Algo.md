@@ -7,3 +7,4 @@
 7. Enter payment information (adding tip and any donations)
 8. Wait for delivery
 9. Enjoy your Pizza!
+10. clean up
